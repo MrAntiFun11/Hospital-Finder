@@ -122,7 +122,7 @@
         android:layout_height="57dp"
         android:autoLink="web"
         android:gravity="center"
-        android:text="Click the link here to visit our Github : https://github.com/nrlannisa/HOSPITAL-FINDER "
+        android:text="Click the link here to visit our Github : https://github.com/MrAntiFun11/Hospital-Finder "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
